@@ -7,8 +7,7 @@ The ExpenseReport refactoring example in TypeScript.
 3. Eslint as the linting tool
 4. Prettier as the formatting tool
 
-##
-The ExpenseReport legacy code refactoring kata in various languages.
+## The ExpenseReport legacy code refactoring kata in various languages.
 
 This is an example of a piece of legacy code with lots of code smells. The goal is to support the following new feature as best as you can:
 
